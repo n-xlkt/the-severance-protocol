@@ -18,7 +18,7 @@
 
 "The Severance Protocol" is a 10-week, public R&D sprint to build a complete, AI-powered archival system from scratch. It reframes a career transition as a self-directed research fellowship.
 
-Inspired by the themes of the show "Severance," this project is a practical exploration of memory, identity, and data integrity within complex systems. It is not just a project done _during_ a period of professional severance; it is a protocol designed to prevent the _data severance_ — the loss of an artifact's context, provenance, and history over time.
+Inspired by the themes of the show "Severance," this project is a tangible exploration of memory, though of the cultural sort. It's a protocol designed to prevent a growing challenge in our increasingly ephemeral digital world: the process whereby informational decay results from the loss of an artifact's context and provenance — or, a *_data severance_*, if you will.
 
 This project serves as a practical application of research I've conducted throughout my Information Studies PhD studies and candidacy, focusing on creating better, more scalable, and more reproducible infrastructure via the mastery of engineering skills (e.g., building automated pipelines, designing robust data models, and ensuring data integrity).
 
