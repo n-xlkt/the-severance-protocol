@@ -6,13 +6,13 @@
 
 ## 📖 Table of Contents
 
--(#-the-narrative)
--(#-live-demo)
--(#-proposed-system-architecture)
--(#-planned-tech-stack)
--(#-running-locally)
--(#-design-decisions--trade-offs)
--(#-weekly-progress-log)
+- [The Narrative](#the-narrative)
+- [Live Demo](#live-demo)
+- [Proposed System Architecture](#proposed-system-architecture)
+- [Planned Tech Stack](#planned-tech-stack)
+- [Running Locally](#running-locally)
+- [Design Decisions & Trade-offs](#design-decisions--trade-offs)
+- [Weekly Progress Log](#weekly-progress-log)
 
 ## 🧠 The Narrative
 
