@@ -201,4 +201,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- macOS Specific ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# --- Custom ---
 *.pkg
