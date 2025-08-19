@@ -44,7 +44,7 @@ The following relationships are critical for enabling multi-hop reasoning and an
 This focused approach allows for immediate progress on the core application logic while maintaining the flexibility to add more properties in the future as the project evolves.
 
 ```mermaid
---
+---
 title: '"The Severance Protocol" – Knowledge Graph Schema'
 ---
 %%{
@@ -92,8 +92,7 @@ erDiagram
     Item ||--o{ Concept : HAS_SUBJECT
 
     %% STYLING DEFINITIONS
-    classDef default stroke:#adb3ac
-    classDef default color:#30342f
+    classDef default stroke:#adb3ac,color:#30342f
     classDef itemStyle fill:#f4dcef
     classDef agentStyle fill:#cbede9
     classDef dataProviderStyle fill:#faded2
